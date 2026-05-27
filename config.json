@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrync",
+        "uuid": 19787481,
+        "checksum": "rqksz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
